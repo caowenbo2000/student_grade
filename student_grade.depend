@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1575335950 source:d:\projecttest\student_grade\main.c
+	"student.h"
+	"intal.h"
+
+1575335658 d:\projecttest\student_grade\student.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1575335861 source:d:\projecttest\student_grade\student.c
+	"student.h"
+
+1575335966 d:\projecttest\student_grade\intal.h
+
